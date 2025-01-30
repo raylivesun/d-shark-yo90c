@@ -1,0 +1,6 @@
+Frame 7: 100 bytes on wire (800 bits), 100 bytes captured (800 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: localhost (127.0.0.1), Dst: localhost (127.0.0.1)
+User Datagram Protocol, Src Port: 34352 (34352), Dst Port: domain (53)
+Domain Name System (query)
+

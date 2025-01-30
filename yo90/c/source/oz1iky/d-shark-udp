@@ -1,0 +1,4 @@
+"Address A","Port A","Address B","Port B","Packets","Bytes","Packets A → B","Bytes A → B","Packets B → A","Bytes B → A","Rel Start","Duration","Bits/s A → B","Bits/s B → A"
+"127.0.0.1",39968,"127.0.0.1",53,2,200,2,200,0,0,0,3.0809e-05,0,0
+"127.0.0.1",34352,"127.0.0.1",53,2,200,2,200,0,0,9.7503e-05,1.2409999999999998e-05,0,0
+

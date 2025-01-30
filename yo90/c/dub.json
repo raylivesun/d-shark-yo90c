@@ -1,0 +1,6 @@
+{
+    "name": "c",
+    "targetName": "c",
+    "targetType": "executable",
+    "targetPath": "bin"
+}

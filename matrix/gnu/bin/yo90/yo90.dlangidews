@@ -1,0 +1,9 @@
+{
+    "name": "yo90",
+    "description": null,
+    "projects": {
+        "c": "c/dub.json"
+    },
+    "includePath": {
+    }
+}

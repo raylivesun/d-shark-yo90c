@@ -1,0 +1,46 @@
+{
+    "startupProject": "c",
+    "expandedItems": [
+        "/home/admin/app/dlang-komodo/d-shark-yo90c/yo90/c/source",
+        "/home/admin/app/dlang-komodo/d-shark-yo90c/yo90/c/source/oz1iky",
+        "/home/admin/app/dlang-komodo/d-shark-yo90c/yo90/c/dub.json"
+    ],
+    "selectedWorkspaceItem": "/home/admin/app/dlang-komodo/d-shark-yo90c/yo90/c/source/oz1iky/etfrexucnok4.d",
+    "breakpoints": [
+        {
+            "id": 5,
+            "file": "etfrexucnok4.d",
+            "line": 194,
+            "enabled": true,
+            "projectName": "c",
+            "projectFilePath": "source/oz1iky/etfrexucnok4.d"
+        },
+        {
+            "id": 6,
+            "file": "etfrexucnok4.d",
+            "line": 208,
+            "enabled": true,
+            "projectName": "c",
+            "projectFilePath": "source/oz1iky/etfrexucnok4.d"
+        }
+    ],
+    "files": [
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-yo90c/yo90/c/source/app.d",
+            "column": 0,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-yo90c/yo90/c/source/oz1iky/etfrexucnok4.d",
+            "column": 313,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-yo90c/yo90/c/source/oz1iky/zatIfNaw70g.d",
+            "column": 43,
+            "row": 18
+        }
+    ],
+    "bookmarks": [
+    ]
+}
